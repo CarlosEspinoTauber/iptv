@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TNU" tvg-name="Canal 5 TNU" tvg-logo="https://www.tnu.com.uy/logo.png" group-title="Uruguay",Canal 5 TNU
+https://envivo.tnu.com.uy/stream/tnu.m3u8
+
+#EXTINF:-1 tvg-id="Canal4UY" tvg-name="Canal 4 Uruguay" tvg-logo="https://www.canal4.com.uy/logo.png" group-title="Uruguay",Canal 4 Monte Carlo
+https://canal4.com.uy/envivo/stream.m3u8  ; <-- Simulado. Reemplazar si consigues enlace válido.
+
+#EXTINF:-1 tvg-id="Canal6UY" tvg-name="Canal 6 TV Libre" tvg-logo="https://tvlibre.uy/logo.png" group-title="Uruguay",Canal 6 TV Libre
+https://tvlibre.uy/envivo/stream.m3u8  ; <-- Simulado
+
+#EXTINF:-1 tvg-id="Canal10UY" tvg-name="Canal 10 Saeta" tvg-logo="https://www.canal10.com.uy/logo.png" group-title="Uruguay",Canal 10 Saeta
+https://canal10.com.uy/envivo/stream.m3u8  ; <-- Simulado
+
+#EXTINF:-1 tvg-id="Teledoce" tvg-name="Canal 12 Teledoce" tvg-logo="https://www.teledoce.com/logo.png" group-title="Uruguay",Canal 12 Teledoce
+https://teledoce.com/envivo/stream.m3u8  ; <-- Simulado
